@@ -1,0 +1,16 @@
+.loginPage {
+  width: 100%;
+  height: 89.5vh;
+  background-image: url("../back.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.singButton {
+  display: flex;
+  justify-content: center;
+}
+
+.singButton button {
+  margin-top: 200px;
+}
